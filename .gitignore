@@ -1,0 +1,23 @@
+# Deployment artifacts
+deploy_result.json
+.build
+
+# IDE and tooling
+opencode.json
+.vscode/
+.idea/
+
+# Development artifacts
+solution.yaml.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
